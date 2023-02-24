@@ -1,0 +1,17 @@
+2023-02-17 15:47:40 INFO  GenerateLogs:20 - launching browser
+  2023-02-17 15:47:43 INFO  GenerateLogs:23 - fb login page is launched
+  2023-02-17 15:47:43 INFO  GenerateLogs:27 - Title value is Log in to Facebook
+  2023-02-17 15:47:43 INFO  GenerateLogs:31 - correct title is Log in to Facebook and test is passed
+  2023-02-17 15:48:51 INFO  GenerateLogs:20 - launching browser
+  2023-02-17 15:48:53 INFO  GenerateLogs:23 - fb login page is launched
+  2023-02-17 15:48:53 INFO  GenerateLogs:27 - Title value is Log in to Facebook
+  2023-02-17 15:48:53 INFO  GenerateLogs:31 - correct title is Log in to Facebook and test is passed
+  2023-02-20 17:08:29 INFO  GenerateLogs:20 - launching browser
+  2023-02-20 17:08:30 INFO  GenerateLogs:23 - fb login page is launched
+  2023-02-20 17:08:30 INFO  GenerateLogs:27 - Title value is Log in to Facebook
+  2023-02-20 17:08:30 INFO  GenerateLogs:31 - correct title is Log in to Facebook and test is passed
+  2023-02-21 17:31:28 INFO  GenerateLogs:16 - launching browser
+  2023-02-21 17:31:30 INFO  GenerateLogs:18 - fb login page is launched
+  2023-02-21 17:31:30 INFO  GenerateLogs:21 - Title value is Log in to Facebook
+  2023-02-21 17:31:30 INFO  GenerateLogs:24 - correct title is Log in to Facebook and test is passed
+  
